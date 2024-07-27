@@ -1,6 +1,8 @@
-# Awesome Alinks 🌟
+<a href="https://aptos.dev">
+	<img width="100%" src="./.assets/aptos_banner.png" alt="Aptos Banner" />
+</a>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Alinks 🌟
 
 Welcome to the Awesome Alinks repository! This space is dedicated to showcasing innovative Alinks (Aptos Links) on the Aptos blockchain. Let's explore the world of Alinks together.
 
