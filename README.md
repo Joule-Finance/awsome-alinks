@@ -10,7 +10,7 @@ Welcome to the Awesome Alinks repository! This space is dedicated to showcasing 
 
 ## 🌐 Understanding Alinks
 
-Alinks are the Aptos equivalent of Starknet Slinks (slinks.fun), enabling you to use Aptos applications directly within Twitter through embedded cards. These are essentially Twitter Cards tailored for the Aptos ecosystem, providing a seamless web3 experience right from your tweets.
+Alinks are the Aptos equivalent of Starknet Slinks [slinks.fun](slinks.fun), enabling you to use Aptos applications directly within Twitter through embedded cards. These are essentially Twitter Cards tailored for the Aptos ecosystem, providing a seamless web3 experience right from your tweets.
 
 Under the hood, Alinks are just [Twitter Cards](https://developer.x.com/en/docs/twitter-for-websites/cards/overview/abouts-cards).
 
@@ -24,9 +24,9 @@ Learn how to easily create and embed Alinks for any Aptos application.
 
 Here's a list of some cool Alinks on Aptos:
 
-- **Joule Finance Cross Chain Swap**
+- **Joule Finance LRT Bridge Testnet**
 
-  - Live Alink Tweet: []()
+  - Live Alink Tweet: [https://x.com/JouleFinance/status/1818014339368210833](https://x.com/JouleFinance/status/1818014339368210833)
   - Official Application Website: [joule.finance](joule.finance)
 
 
