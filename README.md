@@ -1,5 +1,5 @@
 <a href="https://aptos.dev">
-	<img width="100%" src="https://github.com/aptos-labs/aptos-core/blob/main/.assets/aptos_banner.png" alt="Aptos Banner" />
+	<img width="100%" src="./Alinks.png" alt="Alinks Banner" />
 </a>
 
 ---
