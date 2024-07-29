@@ -10,7 +10,7 @@ Welcome to the Awesome Alinks repository! This space is dedicated to showcasing 
 
 ## 🌐 Understanding Alinks
 
-Alinks are the Aptos equivalent of Starknet Slinks [slinks.fun](slinks.fun), enabling you to use Aptos applications directly within Twitter through embedded cards. These are essentially Twitter Cards tailored for the Aptos ecosystem, providing a seamless web3 experience right from your tweets.
+Alinks are the Aptos links, enabling you to use Aptos applications directly within Twitter through embedded cards. These are essentially Twitter Cards tailored for the Aptos ecosystem, providing a seamless web3 experience right from your tweets.
 
 Under the hood, Alinks are just [Twitter Cards](https://developer.x.com/en/docs/twitter-for-websites/cards/overview/abouts-cards).
 
